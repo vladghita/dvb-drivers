@@ -1,6 +1,10 @@
 This is an experimental build system for media drivers.
 All files on this tree are covered by GPLv2, as stated at COPYING file.
 
+This branch was forked from media_build: https://git.linuxtv.org/media_build.git
+Some module sources were merged from: https://bitbucket.org/CrazyCat/linux-tbs-drivers
+Contains TBS 5881 (DVB-T/T2/C) and TBS 5980/QBox2CI (DVB-S/S2) modules in new DVB-V4L structure.
+
 Usage:
 
 Just call the build utility:
